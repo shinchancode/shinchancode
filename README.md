@@ -5,7 +5,7 @@
 
 ---
 
-## I'm a Student | Quick Learner | MentorTech | Enthusiast!!
+## I'm a Student | Quick Learner | Mentor | Tech Enthusiast!!
 
 ### Connect with me:
 
