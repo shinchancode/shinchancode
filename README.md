@@ -31,9 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinchancode&show_icons=true&locale=en" alt="shinchancode" /></p>
 <br>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&" alt="shinchancode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&" alt="shinchancode" /></p>
 
 [website]: https://aartirathi17.herokuapp.com/
 [twitter]: https://twitter.com/codeshinchan
