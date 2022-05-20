@@ -1,8 +1,7 @@
-### Hi there, I'm Annu - aka [shinchancode][website] 👋
+### Hi there, I'm Aarti Rathi - aka [shinchancode][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Faartirathi17.herokuapp.com%2F)](https://shinchancode.github.io/React-Portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CodeShinchan?color=blue&style=for-the-badge)][twitter] -->
----
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Faartirathi17.herokuapp.com%2F)](https://shinchancode.github.io/React-Portfolio/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeShinchan?color=blue&style=for-the-badge)][twitter]
 
 ## I'm a Student | Quick Learner | Mentor | Tech Enthusiast!!
 
