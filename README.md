@@ -2,7 +2,7 @@
 
 <img src="https://github.com/shinchancode/shinchancode/blob/main/20230115_080308.jpg" width="300" height="300" border-radius="50%"/>
 
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/React-Portfolio/)
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
 
 ### I'm a Student | Quick Learner | Mentor | Tech Enthusiast!!
 
@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shinchancode" /></p>
 
-[website]: https://shinchancode.github.io/React-Portfolio/
+[website]: https://shinchancode.github.io/3d-react-portfolio/
 [twitter]: https://twitter.com/codeshinchan
