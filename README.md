@@ -10,7 +10,7 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
 
 <p align="center">
-<a href="https://shinchancode.github.io/React-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://shinchancode.github.io/3d-react-portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
 <a href="https://dev.to/shinchancode" target="blank"><img align="center" src="https://img.icons8.com/windows/32/228BE6/dev.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aarti-rathi-a6031814b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarti-rathi-a6031814b/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aarti.rathi.1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aarti.rathi.1710" height="30" width="40" /></a>
