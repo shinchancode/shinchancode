@@ -7,6 +7,8 @@
 
 <h4 align="center" >I'm a Software Developer | Quick Learner | Mentor | Tech Enthusiast!!</h4> 
 
+[![@Aditya Kumar's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
+
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
 
 <p align="center">
