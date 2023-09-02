@@ -3,11 +3,9 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
 
 
-
-
 <h4 align="center" >I'm a Software Developer | Quick Learner | Mentor | Tech Enthusiast!!</h4> 
 
-[![@Aditya Kumar's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
+[![@AartiKumari's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
 
