@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"> I'm Aarti Rathi - aka <a href="https://shinchancode.github.io/3d-react-portfolio/">shinchancode<a></h3>
+<h3 align="center">Hey there, I'm Aarti Rathi - aka <a href="https://shinchancode.github.io/3d-react-portfolio/">shinchancode<a></h3>
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
 
