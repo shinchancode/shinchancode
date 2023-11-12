@@ -7,7 +7,7 @@
 
 [![@AartiKumari's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
+<h2 align="center"> Connect With Me </h2>
 
 <p align="center">
 <a href="https://shinchancode.github.io/3d-react-portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
