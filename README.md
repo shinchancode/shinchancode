@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shinchancode" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shinchancode" /></p>
 
 [website]: https://shinchancode.github.io/3d-react-portfolio/
 [twitter]: https://twitter.com/codeshinchan
