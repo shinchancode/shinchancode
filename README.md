@@ -1,9 +1,7 @@
-<h3 align="center">Hey there, I'm Aarti Rathi - aka <a href="https://shinchancode.github.io/3d-react-portfolio/">shinchancode<a></h3>
-
+<h3 align="center">Hey there, I'm Aarti Rathi - aka <a href="https://shinchancode.github.io/3d-react-portfolio/">shinchancode<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=Software+Developer+at+BNY+Mellon;a+mentor%2C+Tech+-+Enthusiast;Zonal-level+Table-Tennis+Player" alt="Typing SVG" /></a></p>
+    
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
-
-
-<h4 align="center" >I'm a Software Developer | Quick Learner | Mentor | Tech Enthusiast!!</h4> 
 
 [![@AartiKumari's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
 
@@ -33,11 +31,13 @@
 </p><br>
 <hr>
 
-## 📊 GitHub Stats:
+<details open> 
+  <summary><h2>📊 GitHub Stats:</h2></summary>
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shinchancode" /></p>
+<p align="center" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="GitHub Streak" /></a></p>
+</details>
 
 [website]: https://shinchancode.github.io/3d-react-portfolio/
 [twitter]: https://twitter.com/codeshinchan
