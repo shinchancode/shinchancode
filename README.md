@@ -36,7 +36,7 @@
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p align="center" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="GitHub Streak" /></a></p>
+<p align="center" ><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="GitHub Streak" /></p>
 </details>
 
 [website]: https://shinchancode.github.io/3d-react-portfolio/
