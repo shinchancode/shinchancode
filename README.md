@@ -39,5 +39,7 @@
 <p align="center" ><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="shinchancode" /></p>
 </details>
 
+![Aarti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinchancode&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+
 [website]: https://shinchancode.github.io/3d-react-portfolio/
 [twitter]: https://twitter.com/codeshinchan
